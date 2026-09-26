@@ -60,3 +60,50 @@ I'm currently exploring **Generative AI, Agentic AI, scalable AI architectures, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgayye-6612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgayye-6612&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sgayye-6612&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🚀 Featured Projects
+
+### 🐕 Scooby — Personal AI Assistant
+AI-powered personal assistant built with Python, FastAPI, LangChain, LangGraph, PostgreSQL, Ollama, RAG, embeddings, and tool calling.
+
+### 🚗 Vehicle Recovery & Claims Platform
+Multi-tenant vehicle recovery and claims platform with FastAPI, PostgreSQL, React, JWT authentication, partner eligibility workflows, and tenant-based access control.
+
+### 💼 HireFlow
+Multi-tenant hiring and job-management application built with FastAPI, Angular, PostgreSQL, AWS, authentication, and role-based workflows.
+
+### 🤖 AI Meeting Assistant
+AI-powered application focused on meeting processing and intelligent assistance using modern AI technologies.
+
+### 🛒 E-Commerce Management System
+Full-stack e-commerce application with backend APIs, database integration, and management workflows.
+
+## 🏆 Achievements & Certifications
+
+- AWS Data Engineer – Associate
+- Indian Patent — "Robotic Trash Disposal System for Bedridden Individuals and the Elderly"
+- IEEE Publication — "Ensemble of Deep Neural Networks for Gastrointestinal Disease Classification in Endoscopic Images"
+- B.Tech in Computer Science & Engineering (AI & ML)
+
+## 📚 Currently Exploring
+
+- Generative AI
+- Agentic AI
+- AI Agents & Tool Calling
+- RAG & Vector Search
+- Scalable AI Architectures
+- AWS Cloud & Deployment
+- Multi-Tenant SaaS Architecture
+- Production-ready AI Applications 
