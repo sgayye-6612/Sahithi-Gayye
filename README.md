@@ -9,3 +9,10 @@ I'm currently working on **AI-powered applications and intelligent backend workf
 I'm interested in building practical software that combines **AI engineering, backend development, and modern full-stack technologies**.
 
 I'm currently exploring **Generative AI, Agentic AI, scalable AI architectures, and production-ready AI applications**.
+
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sahithi-gayye-8604b8259/) •
+[Portfolio](https://sahithigayye.lovable.app/) •
+[Email](mailto:sgayye@gmail.com)
