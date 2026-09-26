@@ -11,8 +11,8 @@ I'm interested in building practical software that combines **AI engineering, ba
 I'm currently exploring **Generative AI, Agentic AI, scalable AI architectures, and production-ready AI applications**.
 
 
-## Connect With Me
+## 🌐 Socials
 
-[LinkedIn](https://www.linkedin.com/in/sahithi-gayye-8604b8259/) •
-[Portfolio](https://sahithigayye.lovable.app/) •
-[Email](mailto:sgayye@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithi-gayye-8604b8259/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahithigayye.lovable.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgayye@gmail.com)
